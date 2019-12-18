@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Keyshape -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -150 200 250" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
     <path fill="#ffffff" opacity="1" stroke="none" d="M200,0L0,0L0,250L200,250ZM185,125L15,125L15,225C15,236.046,23.9543,245,35,245L165,245C176.046,245,185,236.046,185,225Z" fill-rule="evenodd" transform="translate(100,125) translate(-100,-125)"/>
     <path fill="#ebebeb" opacity="1" stroke="none" stroke-width="1px" d="M160,0L20,0C8.9543,0,0,8.9543,0,20L0,210C0,221.046,8.9543,230,20,230L160,230C171.046,230,180,221.046,180,210L180,20C180,8.9543,171.046,0,160,0ZM175,105L5,105L5,205C5,216.046,13.9543,225,25,225L155,225C166.046,225,175,216.046,175,205Z" fill-rule="evenodd" transform="translate(-90,0) translate(100,20)"/>
     <rect rx="10" ry="10" width="200" height="40" stroke="none" fill="#a9a9a9" stroke-width="1px" transform="translate(-90,0) translate(90,0)"/>
