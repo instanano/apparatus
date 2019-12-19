@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 250" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <path fill="#ffffff" stroke="none" stroke-linecap="round" stroke-width="0" d="M70,0L-49,0L-49,270L70,270ZM29.2,10L-8.2,10C-14.7722,10,-20.1,13.134,-20.1,17L-20.1,250C-20.1,253.866,-14.7722,257,-8.2,257L29.2,257C35.7722,257,41.1,253.866,41.1,250L41.1,17C41.1,13.134,35.7722,10,29.2,10Z" fill-rule="evenodd" transform="translate(74,125) translate(-35,-135)"/>
+    <path d="M0,0L-14.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(81.5,40)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.5,55)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.5,85)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.25,115)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.25,145)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.25,175)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.25,205)"/>
+    <path d="M0,0L-8.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="2" transform="translate(81.25,236)"/>
+    <path d="M0,0L-14.5,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(81.5,70)"/>
+    <path d="M0,0L-13,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(80,100)"/>
+    <path d="M0,0L-13,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(80,130)"/>
+    <path d="M0,0L-13,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(80,160)"/>
+    <path d="M0,0L-13,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(80,190)"/>
+    <path d="M0,0L-13,0" stroke="#989898" fill="none" stroke-linecap="round" stroke-width="4" transform="translate(80,220)"/>
+    <rect width="70" height="235" fill="none" rx="10" stroke="#eeeeee" stroke-width="11" transform="translate(74,125) translate(-59,-115)"/>
+    <rect rx="10" width="100" height="20" stroke="none" fill="#d1cfd1" stroke-width="1px" transform="translate(-41,0) translate(41,0)"/>
+</svg>
