@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 200" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <rect width="25" height="180" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-168,0) translate(180,0)"/>
+    <rect width="15" height="130" fill="#90ee90" stroke="none" stroke-width="1px" transform="translate(-168,0) translate(185,50)"/>
+    <path fill="#d3d3d3" stroke="none" stroke-width="1px" d="M180,180L205,180L192,200Z" transform="translate(-168,0)"/>
+    <path fill="#90ee90" stroke="none" stroke-width="1px" d="M185,180L200,180L192,200Z" transform="translate(-168,0)"/>
+    <rect rx="0" ry="0" width="50" height="10" fill="#808080" stroke="none" stroke-width="1px" transform="translate(-168,0) translate(170,160)"/>
+    <rect rx="20" ry="10" width="10" height="25" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-168,0) translate(168,152)"/>
+    <rect rx="20" ry="10" width="10" height="30" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-168,0) translate(210,150)"/>
+</svg>
