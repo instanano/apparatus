@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257.23 256.54" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <path fill="#ffffff" stroke="none" d="M280,0L0,0L0,280L280,280ZM114.2,163.264C106.389,155.453,90.5601,158.619,78.8443,170.335L22.2758,226.904C10.56,238.619,7.39422,254.448,15.2047,262.259C23.0152,270.069,38.8443,266.904,50.5601,255.188L107.129,198.619C118.844,186.904,122.01,171.074,114.2,163.264Z" fill-rule="evenodd" transform="translate(130,130) translate(-140,-140)"/>
+    <rect rx="30" ry="100" width="130" height="50" fill="#cd853f" stroke="none" stroke-width="1px" transform="translate(91.7301,101.86) rotate(-45) translate(50,20)"/>
+    <rect rx="30" ry="100" width="240" height="50" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-60.7779,253.673) rotate(-45) translate(50,20)"/>
+    <rect rx="50" ry="10" width="30" height="80" fill="#d2691e" stroke="none" stroke-width="1px" transform="translate(79.3871,92.0614) rotate(-45) translate(50,20)"/>
+</svg>
