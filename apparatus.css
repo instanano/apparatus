@@ -1,16 +1,60 @@
-body {
-    background-color: lightblue;
+﻿.nanomaterials {
+   border-collapse: separate; 
+   border-spacing: 0 20px; 
+}
+.stepstext {
+    color:red;
+    font-weight:bold;
+}
+.steps {
+    padding: 20px;
+    background-color: #eee;
+    vertical-align: middle;
+}
+td:first-child {  
+    border-radius: 10px 0px 0px 10px; 
+}
+td:last-child {
+    border-radius: 0px 10px 10px 0px; 
+}
+.stepsimg {
+background:#fff; width: 50%;text-align:center;
+}
+.steps-container {
+  position: relative;
+  padding-top: 50%;
+}
 
+@media only screen and (max-width: 40em) {
+   td, th {
+     width:100%;
+        display: block;
+    }
 
-i1checklist {
+    td[data-th]:before  {
+        content: attr(data-th);
+    }
+td:first-child {  
+    border-radius: 10px 10px 0px 0px; 
+}
+
+td:last-child {
+    border-radius: 0px 0px 10px 10px; 
+}
+.stepsimg {
+width: 100%;
+}
+}
+
+#i1checklist {
 position:absolute; width:26%;top:23%;left:38%
 }
 
-i2results {
+#i2results {
 position:absolute; width:35%;top:16%;left:31%
 }
 
-i3danger {
+#i3danger {
 position:absolute; width:35%;top:15%;left:33%
 }
 
@@ -246,5 +290,4 @@ position:absolute; width:32%;top:10%;left:33%
 
 #i24centrifuge {
 position:absolute; width:32%;top:10%;left:33%
-}
 }
