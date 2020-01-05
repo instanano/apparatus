@@ -7,6 +7,9 @@ display: table;width:100%;margin-bottom:20px;
 .steps {
 background:#eee;display: table-cell;width: 50%;vertical-align:middle;padding:20px;border-radius:15px 0px 0px 15px;
 }
+.step {
+color:red;font-weight: bold;
+}
 .imgc {
 background:#fff;display: table-cell;width: 50%;border-radius:0px 15px 15px 0px;
 }
