@@ -1,48 +1,28 @@
-﻿.nanomaterials {
-   border-collapse: separate; 
-   border-spacing: 0 20px; 
+﻿.synthesis-steps {
+list-style-type: none;margin: 0;padding: 0;
 }
-.stepstext {
-    color:red;
-    font-weight:bold;
+.synthesis {
+display: table;width:100%;margin-bottom:20px;
 }
 .steps {
-    padding: 20px;
-    background-color: #eee;
-    vertical-align: middle;
+background:#eee;display: table-cell;width: 50%;vertical-align:middle;padding:20px;border-radius:15px 0px 0px 15px;
 }
-td:first-child {  
-    border-radius: 10px 0px 0px 10px; 
+.imgc {
+background:#fff;display: table-cell;width: 50%;border-radius:0px 15px 15px 0px;
 }
-td:last-child {
-    border-radius: 0px 10px 10px 0px; 
-}
-.stepsimg {
-background:#fff; width: 50%;text-align:center;
-}
-.steps-container {
-  position: relative;
-  padding-top: 50%;
+.img {
+padding-top:50%;position:relative;
 }
 
-@media only screen and (max-width: 40em) {
-   td, th {
-     width:100%;
-        display: block;
-    }
-
-    td[data-th]:before  {
-        content: attr(data-th);
-    }
-td:first-child {  
-    border-radius: 10px 10px 0px 0px; 
+@media only screen and (max-width: 600px) {
+.synthesis {
+display:grid;
 }
-
-td:last-child {
-    border-radius: 0px 0px 10px 10px; 
+.steps {
+border-radius:15px 15px 0px 0px;width:initial;
 }
-.stepsimg {
-width: 100%;
+.imgc{
+display:grid;border-radius:0px 0px 15px 15px;width:initial;
 }
 }
 
