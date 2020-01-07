@@ -523,5 +523,5 @@ background:#fff;text-align:center;width:33.33%;border: 2px solid black;
   position: relative;
   padding-top: 50%;
 }
-
+.markdown-body table {display:table;}
 </style>
