@@ -1,3 +1,7 @@
+<script type="text/javascript">  
+ alert("Hello Javatpoint");  
+</script>
+
 const button = document.getElementById('hello');
 button.addEventListener('click', () => {
   const el = document.createElement('h1');
