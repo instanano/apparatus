@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 100" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <defs>
+        <mask id="Mask-1" style="mask-type: alpha;">
+            <path id="path7558-3" d="M-349.373,955.315M-229.14,942.512C-267.466,948.914,-305.792,955.315,-349.484,955.315M-229.148,942.514C-190.822,936.112,-152.496,929.71,-108.804,929.71M11.4297,942.514C-26.8965,936.113,-65.2225,929.711,-108.914,929.711M11.4071,942.511C49.7332,948.912,88.0593,955.313,131.751,955.313M251.985,942.511C213.658,948.912,175.332,955.313,131.641,955.313M251.977,942.511C290.303,936.11,328.629,929.708,372.321,929.708M492.554,942.511C454.228,936.11,415.902,929.709,372.21,929.709M492.549,942.511C530.875,948.912,569.202,955.314,612.893,955.314M733.127,942.511C694.801,948.912,656.475,955.313,612.783,955.313M733.119,942.511C771.445,936.11,809.771,929.709,853.463,929.709M853.353,929.709" fill="none" fill-opacity="0.75" fill-rule="evenodd" stroke="#000000" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="200" opacity="1" transform="translate(-26.0523,-568.511) scale(0.312578,0.552047)" style="animation: 1s linear infinite both path7558-3_t;"/>
+        </mask>
+    </defs>
+    <style>
+@keyframes path7558-4_t { 0% { transform: translate(109.241px,-285.425px) scale(0.312578,0.552047); } 100% { transform: translate(259.241px,-285.425px) scale(0.312578,0.552047); } }
+@keyframes path7558-3_t { 0% { transform: translate(-26.0523px,-568.511px) scale(0.312578,0.552047); } 100% { transform: translate(-176.332px,-568.511px) scale(0.312578,0.552047); } }
+    </style>
+    <rect width="138" height="100" stroke="none" fill="#64a664" fill-opacity="0.75" stroke-width="200" transform="translate(69,50) translate(-69,-50)"/>
+    <g transform="translate(54,53) scale(0.302479,0.302479) translate(-188.007,-135.227)">
+        <path id="path7558-4" d="M-349.373,965.729M-229.14,947.719C-267.466,956.724,-305.792,965.729,-349.484,965.729M-229.148,947.721C-190.822,938.716,-152.496,929.711,-108.804,929.711M11.4297,947.721C-26.8965,938.717,-65.2225,929.712,-108.914,929.712M11.4071,947.717C49.7332,956.721,88.0593,965.726,131.751,965.726M251.985,947.717C213.658,956.721,175.332,965.726,131.641,965.726M251.977,947.718C290.303,938.713,328.629,929.708,372.321,929.708M492.554,947.718C454.228,938.714,415.902,929.709,372.21,929.709M492.549,947.717C530.875,956.722,569.202,965.727,612.893,965.727M733.127,947.717C694.801,956.721,656.475,965.726,612.783,965.726M733.119,947.718C771.445,938.714,809.771,929.709,853.463,929.709M853.353,929.709" fill="none" fill-opacity="0.75" fill-rule="evenodd" opacity="1" stroke="#a6dba6" stroke-dasharray="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="200" transform="translate(109.241,-285.425) scale(0.312578,0.552047)" style="animation: 1s linear infinite both path7558-4_t;"/>
+        <rect width="195.993" height="154.224" rx="0" fill="#e4e4e4" fill-opacity="1" opacity="1" stroke="none" stroke-width="0" transform="translate(240.5,82.3356) translate(-98.4852,-82.3356)"/>
+        <path d="M-7,-8C-5.64887,38.1855,41.1413,96.7372,105.5,96C147.488,95.519,208,68,217,-3" fill="none" opacity="1" stroke="#e4e4e4" stroke-linecap="square" stroke-width="50" transform="translate(135,174.447)"/>
+        <rect rx="0" ry="0" width="65" height="51" fill="#eeeeee" stroke="none" stroke-width="1px" transform="translate(41.0003,-206.053) translate(170,240)"/>
+        <ellipse rx="88.0061" ry="88.0061" fill="#eeeeee" stroke="none" stroke-width="1px" mask="url(#Mask-1)" transform="translate(15.1173,-147.517) translate(223.891,306.994)"/>
+        <rect rx="16" width="93.5156" height="33" fill="#d1cfd1" stroke="none" stroke-width="1px" transform="translate(35.7433,-199.553) translate(161,207)"/>
+        <ellipse rx="87.5" ry="87" fill="none" stroke="#eeeeee" stroke-width="6" transform="translate(246.4,152.632) translate(-5.88611,5.8394)"/>
+    </g>
+    <rect width="138" height="100" stroke="none" fill="none" stroke-width="0" transform="translate(69,50) translate(-69,-50)"/>
+    <rect width="172" height="21.5238" stroke="none" fill="#e4e4e4" fill-opacity="1" stroke-width="0" transform="translate(57,1.3254) translate(-69,-8.5)"/>
+    <rect width="172" height="18.6508" stroke="none" fill="#e4e4e4" fill-opacity="1" stroke-width="0" transform="translate(69,95.5216) translate(-81,-5.8016)"/>
+    <rect width="54.8068" height="100" stroke="none" fill="#e4e4e4" fill-opacity="1" stroke-width="0" transform="translate(69,8.5) translate(-81,-8.5)"/>
+    <rect width="60.6279" height="100" stroke="none" fill="#e4e4e4" fill-opacity="1" stroke-width="0" transform="translate(164.193,8.5) translate(-64.8211,-8.5)"/>
+</svg>
