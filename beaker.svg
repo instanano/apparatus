@@ -1,4 +1,4 @@
-<svg class="beaker" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250">
+<svg xmlns="http://www.w3.org/2000/svg" class="beaker" viewBox="0 0 200 250">
 <style>
 @keyframes wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
 @keyframes wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
