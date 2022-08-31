@@ -3,7 +3,7 @@
 @keyframes wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
 @keyframes wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
 @keyframes beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(180px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
-@keyframes a1_s { 0% { stroke: #e7aaaa; } 50% { stroke: #e76262; } 100% { stroke: #e7aaaa; } }
+@keyframes hydrothermal_color { 0% { stroke: #e7aaaa; } 50% { stroke: #e76262; } 100% { stroke: #e7aaaa; } }
 </style>
 <defs>
 <mask id="Mask-1" style="mask-type:alpha;">
@@ -17,7 +17,7 @@
 <rect width="180" height="282" x="110" y="80" rx="20" fill="#eeeeee" mask="url(#Mask-1)"/>
 <rect width="210" height="42" x="95" y="80" fill="#d1cfd1" fill-opacity="1" rx="0" stroke="none" stroke-width="0"/>
 <rect width="9" height="301" x="195" y="0" fill="#848484" stroke="none"/>
-<path fill="none" stroke="#e7aaaa" stroke-width="10" d="M198,27L198,214C198,228.912,185.912,241,171,241L27,241C12.0883,241,0,228.912,0,214L0,27" filter="blur(2px)" transform="translate(101,95)" style="animation: 1s linear infinite both a1_s;"/>
+<path fill="none" stroke="#e7aaaa" stroke-width="10" d="M198,27L198,214C198,228.912,185.912,241,171,241L27,241C12.0883,241,0,228.912,0,214L0,27" filter="blur(2px)" transform="translate(101,95)" style="animation: 1s linear infinite both hydrothermal_color;"/>
 <rect rx="20" x="0" y="380" width="400" height="120" stroke="none" fill="#848484"/>
 <ellipse rx="33" cx="60" cy="440" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="100" y="420" width="90" height="40" stroke="none" fill="#d3d3d3"/>
