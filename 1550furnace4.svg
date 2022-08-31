@@ -9,7 +9,7 @@
 <path d="M0,0C-2.82702,-0.30483,-4.92438,-1.46602,-5,-5L-5,-32C15.118,-44.7788,35.1208,-45.0817,55,-32L55,-5C55.0139,-1.88549,53.4341,-0.143964,50,0Z" transform="translate(175,210)"/>
 <ellipse rx="33" cx="60" cy="345" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="100" y="325" width="90" height="40" stroke="none" fill="#d3d3d3"/>
-<text x="116" y="355" font-size="22" font-family="impact" fill="#8b0000">1550 °C</text>
+<text x="114" y="355" font-size="22" font-family="impact" fill="#8b0000">1550 °C</text>
 <ellipse rx="33" cx="250" cy="345" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="290" y="325" width="80" height="40" stroke="none" fill="#d3d3d3"/>
 <text x="305" y="355" font-size="22" font-family="impact" fill="#000000">2 Hrs</text>
