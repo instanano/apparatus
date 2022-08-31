@@ -16,7 +16,6 @@
 <rect width="180" height="243" x="110" y="85" stroke="#eeeeee" fill-opacity="1" stroke-width="6" rx="20"/>
 <rect width="180" height="282" x="110" y="80" rx="20" fill="#eeeeee" mask="url(#Mask-1)"/>
 <rect width="210" height="42" x="95" y="80" fill="#d1cfd1" fill-opacity="1" rx="0" stroke="none" stroke-width="0"/>
-<rect width="9" height="301" x="195" y="0" fill="#848484" stroke="none"/>
 <path fill="none" stroke="#e7aaaa" stroke-width="10" d="M198,27L198,214C198,228.912,185.912,241,171,241L27,241C12.0883,241,0,228.912,0,214L0,27" filter="blur(2px)" transform="translate(101,95)" style="animation: 1s linear infinite both ht_color;"/>
 <rect rx="20" x="0" y="380" width="400" height="120" stroke="none" fill="#848484"/>
 <ellipse rx="33" cx="60" cy="440" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
@@ -25,5 +24,7 @@
 <ellipse rx="33" cx="250" cy="440" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="290" y="420" width="80" height="40" stroke="none" fill="#d3d3d3"/>
 <text x="303" y="450" font-size="22" font-family="impact" fill="#000000">24 Hrs</text>
-<rect width="50" height="10" x="175" y="300" fill="#848484" rx="5" style="animation: 0.7s linear infinite both ht_beed;"/>
+<rect width="9" height="123" x="195" y="0" fill="#848484" stroke="none"/>
+<rect width="9" height="300" x="195" y="0" fill="#848484" opacity="0.5" stroke="none"/>
+<rect width="50" height="10" x="175" y="300" fill="#848484" rx="5" opacity="0.5" style="animation: 0.7s linear infinite both ht_beed;"/>
 </svg>
