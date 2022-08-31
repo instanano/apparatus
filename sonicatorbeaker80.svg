@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205 250">
+<style>
+@keyframes wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
+@keyframes wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
+@keyframes full_beaker { 0% { transform: translate(0px,0px) } 50% { transform: translate(5px,0px) } 100% { transform: translate(0px,0px) } }
+</style>
+<g style="animation: 0.2s linear infinite both full_beaker;">
+<rect width="180" height="242.5" x="10" y="5" rx="20" stroke="#eeeeee" stroke-width="5"/>
+<defs>
+<mask id="Mask-1" style="mask-type:alpha;">
+<path d="M-100,25 q25,15,50,0 t 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0" stroke="#eeeeee" stroke-width="100" transform="translate(0,0)" style="animation: 1s linear infinite both wave_up;" opacity="1"/>
+<path d="M-300,25 q25,15,50,0 t 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0 50 0" stroke="#eeeeee" stroke-width="100" style="animation: 1s linear infinite both wave_down;" opacity="1"/>
+</mask>
+</defs>
+<rect width="180" height="242.5" x="10" y="5" rx="20" fill="#eeeeee" mask="url(#Mask-1)"/>
+<rect width="200" height="40" fill="#d1cfd1" fill-opacity="1" rx="8" stroke-width="0"/></g>
+</svg>
