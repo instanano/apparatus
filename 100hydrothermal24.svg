@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+<style>
+@keyframes wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
+@keyframes wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
+@keyframes beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(180px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
+</style>
+<defs>
+<mask id="Mask-1" style="mask-type:alpha;">
+<path d="M0,150 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" transform="translate(0,0)" opacity="0.3" style="animation: 0.5s linear infinite both wave_up;"/>
+<path d="M-200,165 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" opacity="0.3" style="animation: 0.5s linear infinite both wave_down;"/>
+</mask>
+</defs>
+<rect rx="20" width="400" height="500" fill="#a6a6a6" stroke="none"/>
+<rect width="400" height="40" fill="#848484" rx="0" stroke="none"/>
+<rect width="340" height="40" x="30" y="40" fill="#ffffff" stroke="none"/>
+<rect width="180" height="243" x="110" y="85" stroke="#eeeeee" fill-opacity="1" stroke-width="6" rx="20"/>
+<rect width="180" height="282" x="110" y="80" rx="20" fill="#eeeeee" mask="url(#Mask-1)"/>
+<rect width="210" height="42" x="95" y="80" fill="#d1cfd1" fill-opacity="1" rx="0" stroke="none" stroke-width="0"/>
+<rect width="9" height="301" x="195" y="0" fill="#848484" stroke="none"/>
+<path fill="none" stroke="#e7aaaa" stroke-width="10" d="M198,27L198,214C198,228.912,185.912,241,171,241L27,241C12.0883,241,0,228.912,0,214L0,27" filter="blur(2px)" transform="translate(101,95)" style="animation: 1s linear infinite both a1_s;"/>
+<ellipse rx="33" cx="60" cy="430" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
+<rect rx="10" x="100" y="405" width="90" height="40" stroke="none" fill="#d3d3d3"/>
+<text x="115" y="434" font-size="22" font-family="impact" fill="#8b0000">100 °C</text>
+<ellipse rx="33" cx="250" cy="430" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
+<rect rx="10" x="290" y="405" width="80" height="40" stroke="none" fill="#d3d3d3"/>
+<text x="303" y="434" font-size="22" font-family="impact" fill="#000000">24 Hrs</text>
+<rect width="50" height="10" x="175" y="300" fill="#848484" rx="5" style="animation: 0.7s linear infinite both beed;"/>
+</svg>
