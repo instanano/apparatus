@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
 <style>
-@keyframes wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
-@keyframes wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
-@keyframes beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(180px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
+@keyframes hydrothermal_wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
+@keyframes hydrothermal_wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
+@keyframes hydrothermal_beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(180px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
 @keyframes hydrothermal_color { 0% { stroke: #e7aaaa; } 50% { stroke: #e76262; } 100% { stroke: #e7aaaa; } }
 </style>
 <defs>
 <mask id="Mask-1" style="mask-type:alpha;">
-<path d="M0,150 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" transform="translate(0,0)" opacity="0.3" style="animation: 0.5s linear infinite both wave_up;"/>
-<path d="M-200,165 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" opacity="0.3" style="animation: 0.5s linear infinite both wave_down;"/>
+<path d="M0,150 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" transform="translate(0,0)" opacity="0.3" style="animation: 0.5s linear infinite both hydrothermal_wave_up;"/>
+<path d="M-200,165 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" opacity="0.3" style="animation: 0.5s linear infinite both hydrothermal_wave_down;"/>
 </mask>
 </defs>
 <path fill="#a6a6a6" stroke="none" d="M380,0L20,0C8.9543,0,0,8.9543,0,20L0,480C0,491.046,8.9543,500,20,500L380,500C391.046,500,400,491.046,400,480L400,20C400,8.9543,391.046,0,380,0ZM370,40L30,40L30,80L370,80Z" fill-rule="evenodd"/>
@@ -25,5 +25,5 @@
 <ellipse rx="33" cx="250" cy="440" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="290" y="420" width="80" height="40" stroke="none" fill="#d3d3d3"/>
 <text x="303" y="450" font-size="22" font-family="impact" fill="#000000">24 Hrs</text>
-<rect width="50" height="10" x="175" y="300" fill="#848484" rx="5" style="animation: 0.7s linear infinite both beed;"/>
+<rect width="50" height="10" x="175" y="300" fill="#848484" rx="5" style="animation: 0.7s linear infinite both hydrothermal_beed;"/>
 </svg>
