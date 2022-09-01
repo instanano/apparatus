@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="rb2neck" viewBox="0 0 210 240">
+<style>
+@keyframes rb2_wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
+@keyframes rb2_wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
+@keyframes rb2_beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(80px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
+</style>
+<ellipse fill="lightblue" rx="87" ry="87" cx="90" cy="150" stroke="#eeeeee" stroke-width="6"/>
+<defs>
+<mask id="Mask-1" style="mask-type:alpha;">
+<path d="M-100,10 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="200" transform="translate(0,0)" style="animation: 0.5s linear infinite both rb2_wave_up;"/>
+<path d="M-200,20 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="200" opacity="0.5" style="animation: 0.5s linear infinite both rb2_wave_down;"/>
+</mask>
+</defs>
+<ellipse rx="87" ry="87" cx="90" cy="150" fill="#eeeeee" stroke="#eeeeee" stroke-width="6" mask="url(#Mask-1)"/>
+<rect x="60" y="30" width="65" height="50" fill="#eeeeee"/>
+<rect x="46" y="0" rx="16" width="93" height="33" fill="#d1cfd1"/>
+<rect width="40" height="10" x="70" y="220" fill="#555" fill-opacity="0.5" rx="5" transform="translate(0px,0px)" style="animation: 0.7s linear infinite both rb2_beed;"/>
+</svg>
