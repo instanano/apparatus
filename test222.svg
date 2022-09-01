@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="beaker" viewBox="0 0 200 250">
+<style>
+@keyframes bk_wave_down { 0% { transform: translate(0px,0px); } 100% { transform: translate(200px,0px); } }
+@keyframes bk_wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
+@keyframes bk_beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(90px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
+</style>
+<rect id="test222" width="180" height="242.5" x="10" y="5" rx="20" stroke="#eeeeee" stroke-width="5"/>
+<defs>
+<mask id="Mask-1" style="mask-type:alpha;">
+<path d="M-100,75 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" transform="translate(0,0)" style="animation: 0.5s linear infinite both bk_wave_up;"/>
+<path d="M-200,90 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="100" opacity="0.5" style="animation: 0.5s linear infinite both bk_wave_down;"/>
+</mask>
+</defs>
+<rect width="180" height="242.5" x="10" y="5" rx="20" fill="#eeeeee" mask="url(#Mask-1)"/>
+<rect width="200" height="40" fill="#d1cfd1" fill-opacity="1" rx="8" stroke-width="0"/>
+<rect width="50" height="10" x="75" y="232" fill="#555" fill-opacity="0.5" rx="5" transform="translate(0px,0px)" style="animation: 0.7s linear infinite both bk_beed;"/>
+</svg>
