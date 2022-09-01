@@ -4,7 +4,7 @@
 @keyframes rb2_wave_up { 0% { transform: translate(0px,0px); } 100% { transform: translate(-200px,0px); } }
 @keyframes rb2_beed { 0% { transform: translate(0px,0px) scale(1,1); } 50% { transform: translate(80px,0px) scale(0.1,1); } 100% { transform: translate(0px,0px) scale(1,1); } }
 </style>
-<ellipse fill="lightblue" rx="87" ry="87" cx="90" cy="150" stroke="#eeeeee" stroke-width="6"/>
+<ellipse rx="87" ry="87" cx="90" cy="150" stroke="#eeeeee" stroke-width="6"/>
 <defs>
 <mask id="Mask-1" style="mask-type:alpha;">
 <path d="M-100,10 q50,10,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="200" transform="translate(0,0)" style="animation: 0.5s linear infinite both rb2_wave_up;"/>
