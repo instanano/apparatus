@@ -1,4 +1,3 @@
-<style>
 #i1checklist {position:absolute; width:26%;top:23%;left:38%}
 #i1wetchem1 {position:absolute; width:15%;top:23%;left:52%}
 #i1drychem1 {position:absolute; width:12%;top:18%;left:65%}
@@ -34,4 +33,3 @@
 .steps{border-radius:15px 15px 0 0;width:initial}
 .imgc{display:grid;border-radius:0 0 15px 15px;width:initial}
 }
-</style>
