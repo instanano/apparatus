@@ -1,0 +1,37 @@
+<style>
+#i1checklist {position:absolute; width:26%;top:23%;left:38%}
+#i1wetchem1 {position:absolute; width:15%;top:23%;left:52%}
+#i1drychem1 {position:absolute; width:12%;top:18%;left:65%}
+#i1wetchem2 {position:absolute; width:15%;top:19%;left:21%}
+#i1drychem2 {position:absolute; width:15%;top:23%;left:36%}
+#i2results {position:absolute; width:35%;top:16%;left:31%}
+#i3danger {position:absolute; width:35%;top:15%;left:33%}
+#i4leaves {position:absolute; width:100%;top:26%;left:0%}
+#i5stand {position:absolute; width:1.1%;top:11%;left:31%}
+#i5reflux {position:absolute; width:8%;top:3%;left:48.5%}
+#i5stirrer {position:absolute; width:38%;top:77%;left:30%}
+#i5oilbath {position:absolute; width:38%;top:58%;left:30%}
+#i5rb2neckoilbath {position:absolute; width:18%;top:33.5%;left:42%}
+#i5clip1 {position:absolute; width:23%;top:18%;left:31%}
+#i5clip2 {position:absolute; width:23%;top:40%;left:31%}
+#i5droper {position:absolute; width:11%;top:15%;left:58%}
+#i5leaf {position:absolute;width:15%;top:45%;left:42%;opacity:0.7;}
+#i6furnace {position:absolute; width:40%;top:10%;left:29%}
+#i7hydrothermal {position:absolute; width:37%;top:8%;left:32%}
+#i8sonicator {position:absolute; width:36%;top:23%;left:32%}
+#i8sonicatorbeaker {position:absolute; width:25%;top:6%;left:38%}
+#i9centrifuge {position:absolute; width:34%;top:7%;left:33.5%}
+
+.synthesis-steps{list-style-type:none;margin:0;padding:0}
+.synthesis{display:table;width:100%;margin-bottom:20px}
+.steps{background:#eee;display:table-cell;width:50%;vertical-align:middle;padding:20px;border-radius:15px 0 0 15px}
+.step{color:red;font-weight:700}
+.imgc{background:#fff;display:table-cell;width:50%;border-radius:0 15px 15px 0;box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.4);}
+.img{padding-top:50%;position:relative;filter:drop-shadow(2px 2px 4px rgba(0,0,0,.4))}
+
+@media only screen and (max-width:800px){
+.synthesis{display:grid}
+.steps{border-radius:15px 15px 0 0;width:initial}
+.imgc{display:grid;border-radius:0 0 15px 15px;width:initial}
+}
+</style>
