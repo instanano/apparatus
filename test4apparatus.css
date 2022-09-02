@@ -27,7 +27,7 @@
 .steps{background:#eee;display:table-cell;width:50%;vertical-align:middle;padding:20px;border-radius:15px 0 0 15px}
 .step{color:red;font-weight:700}
 .imgc{background:#fff;display:table-cell;width:50%;border-radius:0 15px 15px 0;box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.4);}
-.img{padding-top:50%;position:relative;filter:drop-shadow(2px 2px 4px rgba(0,0,0,.4))}
+.img{padding-top:50%;position:relative}
 
 @media only screen and (max-width:800px){
 .synthesis{display:grid}
