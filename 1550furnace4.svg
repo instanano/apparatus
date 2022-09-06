@@ -12,6 +12,6 @@
 <text x="112" y="355" font-size="22" font-family="impact" fill="#8b0000">1550 °C</text>
 <ellipse rx="33" cx="250" cy="345" stroke="#8b0000" stroke-width="7px" fill="#808080"/>
 <rect rx="10" x="290" y="325" width="80" height="40" stroke="none" fill="#d3d3d3"/>
-<text x="305" y="355" font-size="22" font-family="impact" fill="#000000">2 Hrs</text>
+<text x="305" y="355" font-size="22" font-family="impact" fill="#000000">4 Hrs</text>
 <rect rx="10" x="150" y="130" width="100" height="20" stroke="none" fill="#d1cfd1"/>
 </svg>
