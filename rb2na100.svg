@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="rb2neck" viewBox="0 0 210 240">
+<rect x="155" y="-30" width="53" height="70" fill="#eeeeee" transform="rotate(30)"/>
+<rect x="145" y="-50" rx="16" width="75" height="27" fill="#d1cfd1" transform="rotate(30)"/>
+<ellipse rx="87" ry="87" cx="90" cy="150" stroke="#eeeeee" stroke-width="6"/>
+<defs>
+<mask id="Mask-1" style="mask-type:alpha;">
+<path d="M-100,10 q50,0,100,0 t 100 0 100 0 100 0 100 0" stroke="#eeeeee" stroke-width="200" transform="translate(0,0)" style="animation: 0.5s linear infinite both rb2_wave_up;"/>
+</mask>
+</defs>
+<ellipse rx="87" ry="87" cx="90" cy="150" fill="#eeeeee" stroke="#eeeeee" stroke-width="6" mask="url(#Mask-1)"/>
+<rect x="60" y="30" width="65" height="50" fill="#eeeeee"/>
+<rect x="46" y="0" rx="16" width="93" height="33" fill="#d1cfd1"/>
+</svg>
