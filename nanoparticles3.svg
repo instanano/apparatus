@@ -1,12 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
 <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 1280 720" style="white-space: pre;">
     <defs>
+        <filter id="Filter-0" x="-10%" y="-10%" width="120%" height="126%" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="20"/>
+        </filter>
         <radialGradient id="Gradient-0" cx="-20.4119" cy="-21.8699" r="109.317" fx="-20.4119" fy="-21.8699" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#dedede"/>
             <stop offset="1" stop-color="#2f2f2f"/>
         </radialGradient>
     </defs>
     <g transform="translate(640,360) translate(-640,-360)">
-        <rect width="1280" height="720" fill="#cdcdcd" stroke="none" filter="blur(20px)" transform="translate(641.516,360.853) translate(-641.516,-360.853)"/>
+        <rect width="1280" height="720" fill="#cdcdcd" stroke="none" filter="url(#Filter-0)" transform="translate(641.516,360.853) translate(-641.516,-360.853)"/>
         <ellipse rx="86.0215" ry="86.0215" fill="url(#Gradient-0)" stroke="none" stroke-width="0" transform="translate(154.078,144.423)"/>
         <ellipse rx="86.0215" ry="86.0215" fill="url(#Gradient-0)" stroke="none" stroke-width="0" transform="translate(278.078,619.021)"/>
         <ellipse rx="86.0215" ry="86.0215" fill="url(#Gradient-0)" stroke="none" stroke-width="0" transform="translate(304.17,348.047)"/>
