@@ -19,12 +19,12 @@
         <path fill="#49a2a9" opacity="1" d="M297.39,76.37C299.6,74.03,302.97,73.93,305.97,73.96C326.3,74.06,346.64,73.95,366.97,74.02C367.03,79.34,367.03,84.66,366.97,89.98C349.98,90.02,332.99,90,316,89.98C312.77,90.04,309.5,89.7,306.32,90.3C300.78,95.01,295.99,100.55,290.79,105.63C283.42,112.9,276.24,120.37,268.77,127.53C264.75,124.04,260.97,120.26,257.48,116.24C265.56,107.87,273.92,99.77,282.11,91.51C287.3,86.56,292.2,81.32,297.39,76.37Z" transform="translate(257.348,50.7639) translate(-312.247,-100.743)"/>
     </g>
     <text fill="#00a07b" font-size="36" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="middle" transform="translate(503.873,106.422) scale(2.53827,2.53827)" style="line-height: 20px; white-space: pre;">Data Analyze</text>
-    <text fill="#ff0000" font-size="23" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(443.958,614.03) scale(2.53827,2.53827)" style="line-height: 20px; white-space: pre;">Custom Calculation</text>
-    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(438.205,227.704) scale(2.53827,2.53827)" style="line-height: 30px; white-space: pre;">XRD, FTIR, TGA, 
-DSC, TEM, SEM, 
-AFM, BET, XPS or
-any other analysis</text>
-    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(439.674,538.519) scale(2.53827,2.53827)" style="line-height: 20px; white-space: pre;">Graph Plotting</text>
+    <text fill="#ff0000" font-size="24" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(425.958,619.03) scale(2.53827,2.53827)" style="line-height: 20px; white-space: pre;">Custom Calculation</text>
+    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(428.205,227.704) scale(2.53827,2.53827)" style="line-height: 30px; white-space: pre;">XRD, FTIR, TGA, </text>
+    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(425.205,461.062) scale(2.53827,2.53827)" style="line-height: 30px; white-space: pre;">any other analysis</text>
+    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(424.958,387.046) scale(2.53827,2.53827)" style="line-height: 30px; white-space: pre;">AFM, BET, XPS or</text>
+    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(424.242,307.893) scale(2.53827,2.53827)" style="line-height: 30px; white-space: pre;">DSC, TEM, SEM,</text>
+    <text fill="#ff0000" font-size="25" font-family="Ubuntu" letter-spacing="0" word-spacing="0" stroke="none" font-weight="700" text-anchor="start" transform="translate(425.674,540.519) scale(2.53827,2.53827)" style="line-height: 20px; white-space: pre;">Graph Plotting</text>
     <g transform="translate(96.4367,486.147) scale(1.11434,1) translate(3.34446,-107.271)">
         <g transform="translate(108.578,54.8142) translate(-106.883,-54.8142)">
             <path d="M0,0L-122,0" fill="none" stroke="#585858" stroke-linecap="square" stroke-width="10" transform="translate(213.765,109.628) scale(1.68659,1.68659)"/>
