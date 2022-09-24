@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255 350">
+    <style>
+@keyframes a0_t { 0% { transform: translate(10.776778px,245.223766px); } 50% { transform: translate(10.776778px,339.5px); } 100% { transform: translate(10.776778px,339.5px); } }
+    </style>
+    <rect rx="30" ry="100" width="130" height="50" fill="#cd853f" stroke="none" stroke-width="1px" transform="translate(202.64,52.7157) rotate(-45) translate(-65,-25)"/>
+    <rect rx="30" ry="100" width="240" height="50" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(91.5305,163.825) rotate(-45) translate(-120,-25)"/>
+    <rect rx="30" ry="100" width="140" height="35" stroke="none" stroke-width="1px" transform="translate(52.8718,202.877) rotate(-45) translate(-70,-17.5)"/>
+    <rect rx="50" ry="10" width="30" height="80" fill="#d2691e" stroke="none" stroke-width="1px" transform="translate(79,92) rotate(-45) translate(50,20)"/>
+    <path d="M10.5,0C10.5,5.79899,5.79899,10.5,0,10.5C-5.79899,10.5,-10.5,5.79899,-10.5,0C-10.5,-5.79899,-5.79899,-19.5,0,-19.5C5.79899,-19.5,10.5,-5.79899,10.5,0Z" transform="translate(10.7768,245.224)" style="animation: 1s linear infinite both a0_t;"/>
+</svg>
