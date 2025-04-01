@@ -2,7 +2,7 @@
     <rect rx="20" ry="10" width="50" height="230" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(175,0)"/>
     <rect rx="20" ry="10" width="40" height="230" fill="#add8e6" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(180,0)"/>
     <rect rx="0" ry="0" width="50" height="20" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,50)"/>
-    <rect rx="0" ry="0" width="50" height="20" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,150)"/>
-    <rect rx="0" ry="0" width="50" height="10" fill="#add8e6" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,155)"/>
+    <rect rx="0" ry="0" width="50" height="20" fill="#d3d3d3" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,140)"/>
+    <rect rx="0" ry="0" width="50" height="10" fill="#add8e6" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,145)"/>
     <rect rx="0" ry="0" width="50" height="10" fill="#add8e6" stroke="none" stroke-width="1px" transform="translate(-175,0) translate(220,55)"/>
 </svg>
