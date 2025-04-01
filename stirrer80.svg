@@ -7,5 +7,5 @@
 <rect rx="10" ry="10" width="70" height="40" fill="#d3d3d3" transform="translate(100,69)"/>
 <rect rx="10" ry="10" width="70" height="40" fill="#d3d3d3" transform="translate(270,69)"/>
 <text font-size="16" font-family="impact" fill="#000000" transform="translate(107,97)">900 rpm</text>
-<text font-size="22" font-family="impact" fill="#8b0000" transform="translate(285,99)">50°C</text>
+<text font-size="22" font-family="impact" fill="#8b0000" transform="translate(285,99)">80°C</text>
 </svg>
